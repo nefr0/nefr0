@@ -1,28 +1,41 @@
-![AI, put to work. nefr0 — independent developer building AI tools and automation.](assets/profile-banner.svg)
+![AI, put to work. nefr0 — AI tools and automation.](assets/profile-banner.svg)
 
-# nefr0
+# Give the agents a workspace.
 
-Independent developer building tools around AI agents, automation, and everyday development.
+I'm nefro. I build the tools around AI: places to run agents, see what they're doing, and connect them to everyday development.
 
-I like taking an idea far enough to use it, then improving the parts that get in the way.
+[Explore the code](https://github.com/nefr0?tab=repositories) · [Watch Agent Console](https://youtu.be/JNqju6qvxvc) · [Discuss an idea](https://github.com/nefr0/agent-console/issues)
 
-## Things I'm building
+## Agent Console
 
-### [Agent Console](https://github.com/nefr0/agent-console)
-A browser workspace for Claude Code, Codex, and Pi. Threads, files, and agent workflows, from a laptop or phone.
+### Your agents. Your machine. Any screen.
 
-### [Claude Yoke](https://github.com/nefr0/claude-yoke)
-A terminal interface for Claude Code, with token usage, an agents panel, and a session browser.
+A browser workspace for **Claude Code, Codex, and Pi**. Pick up a thread on your laptop or phone, inspect files, and keep the work in view.
 
-### [Harden VPS](https://github.com/nefr0/harden-vps)
-Linux server setup and security automation: firewall rules, SSH hardening, and monitoring.
+- **Work across agents.** Separate threads, resumable sessions, and cross-agent forks.
+- **Stay close to the code.** File viewing, diffs, inline media, and session search.
+- **Keep work moving.** Scheduled tasks and workflows driven by GitHub issues.
 
-## How I approach the work
+[Browse the source](https://github.com/nefr0/agent-console) · [Watch the tour](https://youtu.be/JNqju6qvxvc)
 
-- Start with a concrete problem and build something usable.
-- Keep people in control of the important decisions.
-- Make the code available so others can inspect it, try it, and adapt it.
+<details>
+<summary>See Agent Console in action</summary>
 
-Have a specific problem or an idea to explore? Open an issue in the relevant project.
+[![Agent Console tour: agent workflows, files, schedules, and phone access.](https://raw.githubusercontent.com/nefr0/agent-console/main/docs/brag/brag.jpg)](https://youtu.be/JNqju6qvxvc)
 
-[Explore the repositories](https://github.com/nefr0?tab=repositories) · [Agent Console tour](https://youtu.be/JNqju6qvxvc)
+</details>
+
+## More pieces of the toolkit
+
+| Project | What it does |
+| :--- | :--- |
+| **[Claude Yoke](https://github.com/nefr0/claude-yoke)** | A terminal UI for Claude Code. Live token usage, an agents panel, and a session browser. |
+| **[Harden VPS](https://github.com/nefr0/harden-vps)** | Debian server hardening in one command. Firewall, key-only SSH, and security monitoring. |
+
+## The thread through it all
+
+Useful AI needs more than a prompt. It needs an interface you can understand, workflows you can inspect, and infrastructure you can maintain.
+
+That's the part I like building.
+
+Have a workflow that keeps getting in your way? [Bring a concrete problem](https://github.com/nefr0/agent-console/issues).
