@@ -1,4 +1,4 @@
-![AI, put to work. nefr0 — AI tools and automation.](assets/ai-tools-banner.svg)
+![AI, put to work. nefro — AI tools and automation.](assets/ai-tools-banner.svg)
 
 # Give the agents a workspace.
 

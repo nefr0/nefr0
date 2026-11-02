@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title description">
 <title id="title">AI, put to work.</title>
-<desc id="description">nefr0. AI tools and automation. Abstract orbital circuitry in lime on charcoal.</desc>
+<desc id="description">nefro. AI tools and automation. Abstract orbital circuitry in lime on charcoal.</desc>
 <defs><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#202a27" stroke-width="1"/></pattern><clipPath id="scene"><rect width="1200" height="480" rx="20"/></clipPath></defs>
 <g clip-path="url(#scene)">
 <rect width="1200" height="480" fill="#101714"/>

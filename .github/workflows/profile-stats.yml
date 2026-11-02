@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: stats
-          options: username=owner&hide_rank=true&show_icons=true&hide=contribs&bg_color=101714&title_color=cbfa83&text_color=f0f4ed&icon_color=cbfa83&border_color=344137&custom_title=Public%20GitHub%20activity&card_width=495&disable_animations=true&number_format=long
+          options: username=nefr0&hide_rank=true&show_icons=true&hide=contribs&bg_color=101714&title_color=cbfa83&text_color=f0f4ed&icon_color=cbfa83&border_color=344137&custom_title=Public%20GitHub%20activity&card_width=495&disable_animations=true&number_format=long
           path: assets/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: 'true'
@@ -33,7 +33,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: top-langs
-          options: username=owner&layout=compact&langs_count=6&bg_color=101714&title_color=cbfa83&text_color=f0f4ed&border_color=344137&custom_title=Public%20repository%20languages&card_width=495&disable_animations=true
+          options: username=nefr0&layout=compact&langs_count=6&bg_color=101714&title_color=cbfa83&text_color=f0f4ed&border_color=344137&custom_title=Public%20repository%20languages&card_width=495&disable_animations=true
           path: assets/github-languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: 'true'
